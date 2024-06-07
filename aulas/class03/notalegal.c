@@ -4,7 +4,7 @@ int main()
 {
 printf("\x1b[35m---------------------------------\n");
 printf("        N O T A  L E G A L       \n");
-printf("-----------------------------------\x1b[0m\n");
+printf("-----------------------------------\n");
 printf("    ITEM        QTD      VALOR   \n");
 printf("%-15s %03i %10.2f\n", "Banana nanica", 2,20.0);
 printf("%-15s %03i %10.2f\n", "Uva globo", 1, 15.0);
